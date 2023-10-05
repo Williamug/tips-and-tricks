@@ -2,6 +2,7 @@
 PHP and Laravel tips and tricks
 
 #### Database
+
 1. [Database Transactions in Laravel **by Fideloper**][def]
    
 
